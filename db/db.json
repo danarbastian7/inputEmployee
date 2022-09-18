@@ -1,0 +1,78 @@
+{
+  "products": [
+    {
+      "product_name": "Leci",
+      "price": "10000",
+      "stock": "10",
+      "id": 1
+    },
+    {
+      "product_name": "Semangka",
+      "price": 25000,
+      "stock": 3,
+      "id": 2
+    },
+    {
+      "product_name": "Melon",
+      "price": "20000",
+      "stock": "5",
+      "id": 3
+    }
+  ],
+  "EmployeeList": [
+    {
+      "Name": "Sasuke",
+      "Email": "sakura@mail.com",
+      "Password": "Sasuke12!",
+      "id": 1
+    },
+    {
+      "Name": "Naruto",
+      "Email": "naruto123@mail.com",
+      "Password": "Uchihaa143!",
+      "id": 3
+    },
+    {
+      "Name": "Naruto",
+      "Email": "Haruno@mail.com",
+      "Password": "Haruno13!",
+      "id": 4
+    },
+    {
+      "Name": "Aburame",
+      "Email": "Shino@mail.com",
+      "Password": "Shino123!",
+      "id": 5
+    },
+    {
+      "Name": "Uchiha",
+      "Email": "Obito@mail.com",
+      "Password": "Obito123!",
+      "id": 6
+    },
+    {
+      "Name": "Deidara",
+      "Email": "Deidara@mail.com",
+      "Password": "Deidara123!",
+      "id": 7
+    },
+    {
+      "Name": "Hidan",
+      "Email": "Hidan@mail.com",
+      "Password": "Hidan123!",
+      "id": 8
+    },
+    {
+      "Name": "Kakuzu",
+      "Email": "Kakuzu@mail.com",
+      "Password": "Kakuzu123!",
+      "id": 9
+    },
+    {
+      "Name": "sakura",
+      "Email": "haruno123@mail.com",
+      "Password": "Sakura123!",
+      "id": 10
+    }
+  ]
+}
